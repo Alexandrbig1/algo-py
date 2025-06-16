@@ -1,3 +1,1 @@
-# algo-py
-
-## python algorithms
+# python algorithms
